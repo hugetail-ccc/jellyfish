@@ -1,4 +1,4 @@
-module jellyfish
+module my-jellyfish
 
 go 1.17
 
